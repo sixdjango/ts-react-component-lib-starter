@@ -2,7 +2,7 @@
   "name": "ts-react-component-lib-starter",
   "private": false,
   "version": "1.0.0",
-  "packageManager": "pnpm@8.4.0",
+  "packageManager": "pnpm@8.15.0",
   "author": "django",
   "repository": {
     "type": "git",
